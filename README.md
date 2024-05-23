@@ -5,21 +5,12 @@ Task Management Dashboard in MERN Stack for college project
 
 
 ## :bookmark_tabs:Table of contents
-* [Team info](#Team-info)
 * [Project info](#Project-info)
 * [Tools and Technologies](#Tools-and-Technologies)
 * [Dependencies](#Dependencies)
 * [Dev-dependencies](#Dev-dependencies)
 * [Setup](#setup)
 * [Installation](#Installation)
-
-## :scroll: Team info
-
-Team members : 
-* Aditi Srivastava
-* Sahil Madav
-* Monish Arun Shetty
-* Niranjan Pal
 
 
 ## Project info
