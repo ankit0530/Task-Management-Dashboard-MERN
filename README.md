@@ -69,7 +69,7 @@ Following are the major dev-dependencies of the project:
 
 Clone the repo
 ```
-$ git clone https://github.com/aadeshpalpal/Task-Management-Dashboard-MERN-.git
+$ git clone https://github.com/ankit0530/Task-Management-Dashboard-MERN.git
 ```
 ## Installation
 1. Install all the dependencies
@@ -92,5 +92,5 @@ PS: You should have Node.js and MongoDB database.
 
 ## Contact
 
-- Email: aadeshvinodpal@gmail.com
-- Linkedin: https://www.linkedin.com/in/niranjan-pal-357b93235/
+- Email: akshshrivastav0530@gmail.com
+- Linkedin: https://www.linkedin.com/in/ankit-shrivastav-087990252/
